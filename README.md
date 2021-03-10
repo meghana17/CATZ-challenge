@@ -16,8 +16,6 @@ The dataset is comprised of sequences extracted from GIFs of cats thanks to GIPH
 1. Image augmentation
 
 2. Architecture 1 - CNN and LSTM as propsed in [1] and [2]<br/>
-   Used Dropout and Gaussian noise to prevent overfitting on the training data<br/>
-   Created five different models and used bagging to reduce the perceptual distance
    
 3. Architecture 2 - Generative Adversarial Network to predict future frames of video as proposed in [3]
 
