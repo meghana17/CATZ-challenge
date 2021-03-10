@@ -1,6 +1,6 @@
 # Video prediction challenge 
 
-## The goal
+## Goal
 The goal is to predict the 6th frame given 5 consecutive previous frames.
 
 ## The dataset
@@ -24,5 +24,7 @@ The dataset is comprised of sequences extracted from GIFs of cats thanks to GIPH
 
 ## References
 [1] [Prednet](https://github.com/coxlab/prednet) proposed in [Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning](https://arxiv.org/abs/1605.08104)
+
 [2] [ConvLSTM](https://github.com/farquasar1/ConvLSTM) for video prediction
+
 [3] [Deep multi-scale video prediction beyond mean square error](https://arxiv.org/abs/1511.05440)
