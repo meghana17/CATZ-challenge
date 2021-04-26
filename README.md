@@ -26,6 +26,3 @@ The dataset is comprised of sequences extracted from GIFs of cats thanks to GIPH
 [2] [ConvLSTM](https://github.com/farquasar1/ConvLSTM) for video prediction
 
 [3] [Deep multi-scale video prediction beyond mean square error](https://arxiv.org/abs/1511.05440)
-
-## Acknowledgement
-The ease of implementing this project is accredited to the original source code released by authors of the papers.
